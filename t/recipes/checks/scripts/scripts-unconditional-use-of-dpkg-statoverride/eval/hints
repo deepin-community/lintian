@@ -1,0 +1,2 @@
+scripts-unconditional-use-of-dpkg-statoverride (binary): maintainer-script-interpreter /bin/sh [control/preinst]
+scripts-unconditional-use-of-dpkg-statoverride (binary): maintainer-script-interpreter /bin/sh [control/postinst]
